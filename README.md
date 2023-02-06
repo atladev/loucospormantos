@@ -3,6 +3,8 @@ www.loucospormantos.com.br
 
 This is an e-commerce template developed using the popular CMS WordPress and the WooCommerce e-commerce. With its user-friendly interface and customizability, this solution is perfect for setting up an online store quickly and efficiently.
 
+<br />
+
 ## Features
 Customizable product catalog and checkout process
 Support for multiple payment gateways
@@ -17,7 +19,9 @@ SSL certificate for secure transactions
 ## Contributing
 If you would like to contribute to this project, please feel free to submit a pull request with your changes.
 
-
+<br />
+<br />
+<br />
 
 
 
