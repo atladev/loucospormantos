@@ -1,7 +1,7 @@
 # WordPress + WooCommerce - Loucos por Mantos
 www.loucospormantos.com.br
 
-This is an e-commerce template developed using the popular CMS WordPress and the WooCommerce e-commerce. With its user-friendly interface and customizability, this solution is perfect for setting up an online store quickly and efficiently.
+This is an e-commerce developed using the popular CMS WordPress and the WooCommerce e-commerce. With its user-friendly interface and customizability, this solution is perfect for setting up an online store quickly and efficiently.
 
 <br />
 
